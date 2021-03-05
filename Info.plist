@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>VelocityApps.Whats-Cooking.notificationSchedule</string>
+		<string></string>
+	</array>
+	<key>BuildMachineOSBuild</key>
+	<string>20D75</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>What's Cooking</string>
+	<key>CFBundleExecutable</key>
+	<string>What's Cooking</string>
+	<key>CFBundleGetInfoString</key>
+	<string>NSContactsUsageDescription</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>Black-Circle</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>Black_Circle</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>Black-Plain</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>Black_Plain</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>Neo-Circle-Dark</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>Dark_Circle</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>Neo-Circle-Light</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>Light_Circle</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>Neo-Plain-Dark</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>Dark_Plain</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>Neo-Plain-Light</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>Light_Plain</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>White-Circle</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>White_Circle</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>White-Plain</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>White_Plain</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+		</dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon60x60</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+		</dict>
+		<key>Pride</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>Pride</string>
+			</array>
+			<key>UIPrerenderedIcon</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>CFBundleIcons~ipad</key>
+	<dict/>
+	<key>CFBundleIdentifier</key>
+	<string>VelocityApps.Whats-Cooking</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>What's Cooking</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array/>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1154</string>
+	<key>DTAppStoreToolsBuild</key>
+	<string>12D4d</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>18D46</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>DTPlatformVersion</key>
+	<string>14.4</string>
+	<key>DTSDKBuild</key>
+	<string>18D46</string>
+	<key>DTSDKName</key>
+	<string>iphoneos14.4</string>
+	<key>DTXcode</key>
+	<string>1240</string>
+	<key>DTXcodeBuild</key>
+	<string>12D4e</string>
+	<key>ITSDRMScheme</key>
+	<string>v2</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>LSSupportsOpeningDocumentsInPlace</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>14.0</string>
+	<key>NSAccentColorName</key>
+	<string>AccentColor</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>This is not used.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>This is not used.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>This is not used.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>This is not used</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Use your camera to take photos of meals.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>This is not used</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This is not used.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This is not used.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This is not used</string>
+	<key>NSMotionUsageDescription</key>
+	<string>This is not used.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Upload photos from your photo library for meals.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>This is not used.</string>
+	<key>NSUserActivityTypes</key>
+	<array>
+		<string>ConfigurationIntent</string>
+		<string>MealTypeSelectionIntent</string>
+		<string>WCMealTypeIntent</string>
+		<string>WCWidgetIntentIntent</string>
+	</array>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>This is not used.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Proxima Nova Alt Bold.otf</string>
+		<string>Proxima Nova Alt Light.otf</string>
+		<string>Proxima Nova Alt Thin.otf</string>
+		<string></string>
+		<string>Proxima Nova Black.otf</string>
+		<string>Proxima Nova Bold.otf</string>
+		<string>Proxima Nova Extrabold.otf</string>
+		<string>Proxima Nova Thin.otf</string>
+		<string>ProximaNova-Regular.otf</string>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>What_s_Cooking.SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>UIApplicationShortcutItems</key>
+	<array>
+		<dict>
+			<key>UIApplicationShortcutItemIconType</key>
+			<string>UIApplicationShortcutIconTypeAdd</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Add Meal</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>VelocityApps.Whats-Cooking.shortcut-addmeal</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconType</key>
+			<string>UIApplicationShortcutIconTypeFavorite</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Breakfast</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>VelocityApps.Whats-Cooking.shortcut-breakfast</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconType</key>
+			<string>UIApplicationShortcutIconTypeFavorite</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Lunch</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>VelocityApps.Whats-Cooking.shortcut-lunch</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconType</key>
+			<string>UIApplicationShortcutIconTypeFavorite</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Dinner</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>VelocityApps.Whats-Cooking.shortcut-dinner</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconType</key>
+			<string>UIApplicationShortcutIconTypeFavorite</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Snack</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>VelocityApps.Whats-Cooking.shortcut-snack</string>
+		</dict>
+	</array>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+	</array>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>Launch Screen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+	<key>UISupportedDevices</key>
+	<array>
+		<string>iPhone11,8</string>
+		<string>iPhone12,1</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>
